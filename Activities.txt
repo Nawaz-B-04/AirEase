@@ -1,0 +1,30 @@
+------------------------------------
+------------------------------------
+Services offered at the airport:
+____________________________________
+____________________________________
+*The Grill (Restaurant)
+ Rating: 4 stars
+ Location: Terminal 1, Level 3
+____________________________________
+____________________________________
+*Cafe Nero (Cafe)
+ Rating: 3 stars
+ Location: Terminal 2, Level 2
+____________________________________
+____________________________________
+*Duty Free (Shop)
+ Rating: 5 stars
+ Location: Terminal 3, Level 1
+____________________________________
+____________________________________
+*Sky Lounge (Lounge)
+ Rating: 4 stars
+ Location: Terminal 2, Level 3
+_____________________________________
+_____________________________________
+*The Couture(Boutique)
+ Rating: 4.5 stars
+ Location: Terminal 1, Level 1
+____________________________________
+____________________________________
