@@ -14,3 +14,45 @@ A comprehensive Java-based console application designed to simulate an airport i
 | **Rules & Regulations** | Important airport rules, security guidelines, and safety protocols |
 | **Dos & Don'ts** | Best practices and what to avoid during your visit |
 | **Customer Service** | Essential contact information and helpline numbers |
+
+## 📁 Project Structure
+
+AirEase-Airport-System/
+├── src/
+│ └── AirportSystem.java
+├── data/
+│ ├── flights.txt
+│ ├── Activities.txt
+│ ├── accessibility.txt
+│ ├── tipsntricks.txt
+│ ├── rulesnregulation.txt
+│ ├── dosndonts.txt
+│ └── helpline.txt
+├── LICENSE
+└── README.md
+
+---
+
+## 🚀 Installation & Usage
+
+### Prerequisites
+- **Java JDK 8 or higher**
+- All data files must be in the correct directory
+
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/your-username/AirEase-Airport-System.git
+cd AirEase-Airport-System
+
+# Compile and run
+javac src/AirportSystem.java
+java -cp src AirportSystem
+Running the Program
+Navigate to the project directory
+
+Compile the Java source: javac src/AirportSystem.java
+
+Run the program: java -cp src AirportSystem
+
+Follow the on-screen menu to explore airport information
