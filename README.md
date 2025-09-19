@@ -56,3 +56,10 @@ Compile the Java source: javac src/AirportSystem.java
 Run the program: java -cp src AirportSystem
 
 Follow the on-screen menu to explore airport information
+
+📝 Notes
+
+✅ Console-based application with text-menu interface
+✅ Data stored in plain text files for easy management
+✅ Requires all .txt files to be in the correct directory
+✅ Simple to modify and extend
